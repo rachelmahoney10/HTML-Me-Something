@@ -1,0 +1,44 @@
+header{
+    font-size: 40px;
+    text-align: center;
+    color: green;
+}
+
+p{
+    font-family: sans-serif;
+    font-size: 20px;
+}
+
+body{
+    background-color: darkgray;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+    padding: 20px;
+}
+
+#day1{
+text-align: center;
+}
+
+.day2{
+    text-align: center;
+}
+
+.day3{
+    text-align: center;
+}
+
+.day4{
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+}
+
+footer{
+    text-align: center;
+}
